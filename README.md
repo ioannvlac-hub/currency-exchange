@@ -51,5 +51,5 @@ This API integrates with a third‑party exchange rate provider (e.g., [Exchange
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/evangelosvlachos96-dotcom/currency-exchange.git
+   git clone https://github.com/ioannvlac-hub/currency-exchange.git
    cd currency-exchange
